@@ -93,7 +93,7 @@ function Progress() {
 
           {/* Progress Bar */}
           <div className="relative mt-10">
-            <div className="w-[703px] p-0 bg-gray-200 -ml-4 rounded-b-lg h-2 overflow-hidden">
+            <div className="w-[724px] p-0 bg-gray-200 -ml-4 rounded-b-lg h-2 overflow-hidden">
               <div
                 className="bg-progressbar h-2 rounded-bl-lg"
                 style={{ width: `${part.completed}%` }}
